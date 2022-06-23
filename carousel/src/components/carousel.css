@@ -1,0 +1,14 @@
+.head-text {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  color: white;
+  height: 70%;
+}
+.center__text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
